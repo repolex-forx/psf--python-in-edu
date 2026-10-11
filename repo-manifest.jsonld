@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/python-in-edu/commit/d4634d5357aea80ac260786bcdc3e1d13b042810",
       "git:hexsha": "d4634d5357aea80ac260786bcdc3e1d13b042810",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:23:17.426275+00:00"
     }
   ]
 }
