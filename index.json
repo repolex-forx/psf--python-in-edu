@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "python-in-edu",
+  "versions": [
+    {
+      "commit": "d4634d5357aea80ac260786bcdc3e1d13b042810",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:23:17.426919+00:00"
+    }
+  ]
+}
